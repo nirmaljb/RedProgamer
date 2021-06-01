@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedProgamer
-- 👀 I’m interested in Android Development, Web Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any Android Project
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full-Stack Web Development
+- 💞️ I’m looking to collaborate on any Web Project
 - 📫 How to reach me nirmaljyotib@gmail.com
 
 <!---
