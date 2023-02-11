@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RedProgamer
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full-Stack Web Development
-- 💞️ I’m looking to collaborate on any Web Project
+- 👋 Hi, I’m Nirmal Jyoti Biswas, @RedProgamer
+- 👀 I’m interested in Exploring and Learning new tech to find my niche.
+- 🌱 I’m currently learning to make IOS apps
+- 💞️ I’m looking to collaborate on any IOS development
 - 📫 How to reach me nirmaljyotib@gmail.com
 
 <!---
